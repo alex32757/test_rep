@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-12-17T16:53:33.206678800Z</date>
+  <millis>1608224013206</millis>
+  <nanos>678800</nanos>
+  <sequence>10</sequence>
+  <logger>Hospital</logger>
+  <level>INFO</level>
+  <class>Hospital</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Starting a program</message>
+</record>
+<record>
+  <date>2020-12-17T16:54:01.698650500Z</date>
+  <millis>1608224041698</millis>
+  <nanos>650500</nanos>
+  <sequence>11</sequence>
+  <logger>Hospital</logger>
+  <level>INFO</level>
+  <class>AddPatientToPanel</class>
+  <method>actionPerformedAddButton</method>
+  <thread>21</thread>
+  <message>Adding a patient Ivan Ivanov</message>
+</record>
+<record>
+  <date>2020-12-17T16:54:15.843069800Z</date>
+  <millis>1608224055843</millis>
+  <nanos>69800</nanos>
+  <sequence>12</sequence>
+  <logger>Hospital</logger>
+  <level>INFO</level>
+  <class>EditPatientOnPanel</class>
+  <method>actionPerformedAddButtonDelete</method>
+  <thread>21</thread>
+  <message>Deleting a patient ergerg rtgrtg</message>
+</record>
+</log>
